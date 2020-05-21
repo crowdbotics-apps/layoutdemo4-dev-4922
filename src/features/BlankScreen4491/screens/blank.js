@@ -38,6 +38,7 @@ export class _Blank extends React.Component {
       >
         Button
       </Button>
+      <Text style={{ overflow: "visible", borderStyle: "solid" }}>Text</Text>
     </View>
   )
 }
