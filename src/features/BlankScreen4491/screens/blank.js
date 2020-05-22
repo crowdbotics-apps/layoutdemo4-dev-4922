@@ -45,20 +45,8 @@ export class _Blank extends React.Component {
         value=""
         style={{ overflow: "visible", borderStyle: "solid" }}
       />
-      <Textarea
-        placeholder="Text input placeholder"
-        readonly={false}
-        value=""
-        style={{ overflow: "visible", borderStyle: "solid" }}
-      />
       <CheckBox
         label="Checkbox"
-        disabled={false}
-        checked={true}
-        style={{ overflow: "visible", borderStyle: "solid" }}
-      />
-      <Radio
-        label="Radio button"
         disabled={false}
         checked={true}
         style={{ overflow: "visible", borderStyle: "solid" }}
