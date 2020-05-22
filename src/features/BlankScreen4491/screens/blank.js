@@ -51,6 +51,12 @@ export class _Blank extends React.Component {
         checked={true}
         style={{ overflow: "visible", borderStyle: "solid" }}
       />
+      <Radio
+        label="Radio button"
+        disabled={false}
+        checked={true}
+        style={{ overflow: "visible", borderStyle: "solid" }}
+      />
     </View>
   )
 }
