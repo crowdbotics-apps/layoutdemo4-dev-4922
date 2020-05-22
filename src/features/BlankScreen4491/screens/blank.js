@@ -46,7 +46,7 @@ export class _Blank extends React.Component {
         style={{ overflow: "visible", borderStyle: "solid" }}
       />
       <CheckBox
-        label="Checkbox"
+        label="Some Checkbox"
         disabled={false}
         checked={true}
         style={{ overflow: "visible", borderStyle: "solid" }}
